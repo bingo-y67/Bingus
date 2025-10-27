@@ -2,5 +2,5 @@
 
 **Name:** Zechariah Sliger  
 **Project:** Bingus Site  
-**Netlify URL:** https://your-netlify-site.netlify.app
+**Netlify URL:** bingus1.netlify.app
 
